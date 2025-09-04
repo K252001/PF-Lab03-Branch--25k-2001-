@@ -1,8 +1,8 @@
 # PF-Lab03-Branch--25k-2001-
-# heading no.1
+_#heading no.1_
 ##heading no.2
 ###heading no.3
-learning C
+**learning C**
 * hi
 * bye
   1. no

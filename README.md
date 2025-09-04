@@ -3,3 +3,5 @@
 ##heading no.2
 ###heading no.3
 learning C
+* hi
+* bye 

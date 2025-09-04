@@ -4,4 +4,7 @@
 ###heading no.3
 learning C
 * hi
-* bye 
+* bye
+  1. no
+  2. hi
+  3. 
